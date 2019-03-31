@@ -9,9 +9,11 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "element-ui": "1.0.9",
+    "element-ui": "^1.0.9",
+    "i": "^0.3.6",
     "lodash.debounce": "^4.0.8",
-    "vue": "2.1.6"
+    "npm": "^6.9.0",
+    "vue": "^2.1.6"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
